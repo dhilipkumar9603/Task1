@@ -4,10 +4,10 @@ This repository contains the source code for a simple, responsive website showca
 
 ---
 
-##Interface
+## Interface
 
-[Top of the page](screenshots/Top_view.png)
-[Down of the page](screenshots/Bottom_view.png)
+   -[Top of the page](screenshots/Top_view.png)
+   -[Down of the page](screenshots/Bottom_view.png)
 ## Features
 
 - Responsive header with logo, title, and multi-level navigation menu.
